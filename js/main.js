@@ -9,3 +9,10 @@ function showMenu(){
     menuBar.classList.toggle('is-active');
     menuList.classList.toggle('is-active');
 }
+
+//Google Anyeletics
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9TNQLBKGNL');
