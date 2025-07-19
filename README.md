@@ -4,7 +4,7 @@ A modern and responsive portfolio website showcasing my projects, skills, and pr
 
 ## 🚀 Live Demo
 
-[View Live Portfolio]((https://portfolio-web-mauve-omega.vercel.app/))
+[((https://portfolio-web-mauve-omega.vercel.app/))]
 
 ## 📋 Project Overview
 
