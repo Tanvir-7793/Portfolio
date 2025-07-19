@@ -4,7 +4,7 @@ A modern and responsive portfolio website showcasing my projects, skills, and pr
 
 ## 🚀 Live Demo
 
-[((https://portfolio-web-mauve-omega.vercel.app/))]
+[https://portfolio-web-mauve-omega.vercel.app/]
 
 ## 📋 Project Overview
 
@@ -75,7 +75,7 @@ Tanvir-7793
 ## 📞 Contact
 
 - GitHub: [Tanvir-7793](https://github.com/Tanvir-7793)
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/tanvir-mujawar-7573012aa/))
+- LinkedIn: [Tanvir Mujawar](https://www.linkedin.com/in/tanvir-mujawar-7573012aa/)
 
 ## 🎯 Acknowledgments
 
